@@ -23,7 +23,7 @@ define('DIR_UPLOAD', DIR_STORAGE . 'upload/');
 // DB
 define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
-define('DB_USERNAME', 'root');
+define('DB_USERNAME', 'ubuntu');
 define('DB_PASSWORD', '');
 define('DB_DATABASE', 'tumbuh_baru');
 define('DB_PORT', '3306');
